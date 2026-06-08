@@ -6,7 +6,7 @@
 
 - 💻 I enjoy building **console-based applications and web projects**
 
-- 🧠 Currently exploring **Data Structures, Object-Oriented Programming, and Web Development**
+- 🧠 Currently exploring  **Data Structures, Object-Oriented Programming, and Web Development**
 
 - 👯 I’m open to collaborate on **beginner-friendly open-source and learning projects**
 
