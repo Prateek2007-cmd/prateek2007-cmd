@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm  Prateek Chintawar </h1>
+<h1 align="center">Hi 👋,  I'm  Prateek Chintawar </h1>
 <h3 align="center">🎓 Information Technology Undergraduate at Vasavi College of Engineering, Hyderabad | Learning by building and experimenting</h3>
 ---
 - 🌱 I’m currently strengthening my **programming fundamentals and problem-solving skills**
